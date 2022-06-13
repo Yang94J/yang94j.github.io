@@ -1,4 +1,4 @@
-## Yang Hang
+## Self-Portrait
 
 Software Algorithm Engineer / Blockchain Developper / Open-source Contributor / System Architect.
 
@@ -33,6 +33,7 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
 ```
 
 - 2019 | **NLP Algorithm Engineer** | DataVisor | 
+
 ```
   1. Sensitive Words Recognition Algorithm based on Deep Learning ( Auti-Fraud , NLP , Outlier Detection )
 ```
