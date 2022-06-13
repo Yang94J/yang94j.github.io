@@ -1,8 +1,29 @@
 ## Yang Hang
 
-Software Algorithm Engineer / Blockchain Developper / IT Translator.
-Graduate From Université Paris-Saclay (France, ingénieur)/ Xi'an Jiaotong University (China, Master/Bachelor).
+Software Algorithm Engineer / Blockchain Developper / Open-source Contributor / System Architect.
 
+Graduate From Université Paris-Saclay (France, Ingénieur)/ Xi'an Jiaotong University (China, Master/Bachelor).
+
+Research field involves **Blockchain Development**、**Web Security**、**Cloud Computing**.
+
+### Education
+
+- 2015-2020 **Ingénieur Diploma** | Electrical and Computer Engineering | Université Paris-Saclay (France)
+
+- 2017-2020 **Master Degree** | Electrical Engineering | Xi'an Jiaotong University (China)
+
+- 2013-2017 **Bachelor Degree** | Electrical Engineering | Xi'an Jiaotong University (China)
+
+### Working Experience
+
+- **Full-stack Engineer** | China Electronics Technology Corporation | 2020 ~ Now
+  - Trusted Support of Underlying Data | Blockchain , Smart Contract , IPFS 
+  - Cyber Security A&D Simulation Platform | OpenStack , Java BackEnd , Vue FrontEnd
+
+- **OpenSource Contributor** | OpenSource Community | 2019 ~ Now
+  - IT Book Translator | 6 books translated (5 published)
+  - Near Community Translator | Near Protocol 
+  - InfoQ Community Editor | InfoQ
 
 ### Markdown
 
