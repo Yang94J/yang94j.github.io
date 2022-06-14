@@ -7,6 +7,9 @@ Graduate From Université Paris-Saclay (France, Ingénieur) / Xi'an Jiaotong Uni
 Research field involves **Blockchain Development**、**Web Security**、**Cloud Computing**.
 
 
+<hr>
+
+
 ### Education
 
   - 2015-2020 | **Ingénieur** | Electrical/Computer Engineering | Université Paris-Saclay (France)
@@ -14,6 +17,9 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
   - 2017-2020 | **Master Degree** | Electrical Engineering | Xi'an Jiaotong University (China)
 
   - 2013-2017 | **Bachelor Degree** | Electrical Engineering | Xi'an Jiaotong University (China)
+
+
+<hr>
 
 
 ### Working Experience
@@ -40,6 +46,9 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
     1. Sensitive Words Recognition Algorithm ( Auti-Fraud , NLP , Outlier Detection )
   ```
 
+<hr>
+
+
 ### Language
 
   - English : IELTS(7.5) EFSET(C2) ITP(603) CET6(630) CET4(660)
@@ -48,6 +57,9 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
 
   - French : TFI(B2) TCF(B1) TFU4
   
+<hr>
+
+
 ### Tech Stack
 
   - **Blockchain Development** : Ethereum, IPFS, Cryptography, Near Protocol, Solidity
@@ -58,6 +70,9 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
 
   - **Cloud Computing**: OpenStack, Docker
 
+<hr>
+
+
 ### Honors and Awards
   - Jiangsu Software Talent Scholarship (2020)
 
@@ -66,6 +81,9 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
   - The First prize of the Northwest Division in ZTE Algorithm Competition (2019)
 
   - First Prize of National English Reading Contest (2019)
+
+<hr>
+
 
 ### Academic Achievements
 
@@ -107,6 +125,8 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
     5. Formal Language and Automata Theory
     6. IT Room Migration
   ```
+
+<hr>
 
 
 ### Contact
