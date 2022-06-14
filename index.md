@@ -39,6 +39,14 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
 ```
   1. Sensitive Words Recognition Algorithm ( Auti-Fraud , NLP , Outlier Detection )
 ```
+
+### Language
+
+- English : IELTS(7.5) EFSET(C2) ITP(603) CET6(630) CET4(660)
+
+- Madarain
+
+- French : TFI(B2) TCF(B1) TFU4
   
 ### Tech Stack
 
