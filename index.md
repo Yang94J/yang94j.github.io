@@ -42,11 +42,17 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
   
 ### Tech Stack
 
-- **Blockchain Development** : Ethereum, IPFS, Cryptography, Near Protocol
+- **Blockchain Development** : Ethereum, IPFS, Cryptography, Near Protocol, Solidity
+
 - **Programming Language** : Python, Java, Golang, Rust, JavaScript
+
 - **Framework** : SpringBoot, Flask, Vue3
+ 
 - **Cloud Computing**: OpenStack, Docker
 
+### Honors and Awards
+- Jiangsu Software Talent Scholarship (2020)
+- 
 
 ### Markdown
 
