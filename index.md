@@ -6,6 +6,7 @@ Graduate From Université Paris-Saclay (France, Ingénieur) / Xi'an Jiaotong Uni
 
 Research field involves **Blockchain Development**、**Web Security**、**Cloud Computing**.
 
+
 ### Education
 
 - 2015-2020 | **Ingénieur** | Electrical/Computer Engineering | Université Paris-Saclay (France)
@@ -13,6 +14,7 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
 - 2017-2020 | **Master Degree** | Electrical Engineering | Xi'an Jiaotong University (China)
 
 - 2013-2017 | **Bachelor Degree** | Electrical Engineering | Xi'an Jiaotong University (China)
+
 
 ### Working Experience
 
@@ -38,6 +40,14 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
   1. Sensitive Words Recognition Algorithm ( Auti-Fraud , NLP , Outlier Detection )
 ```
   
+### Tech Stack
+
+- **Blockchain Development** : Ethereum, IPFS, Cryptography, Near Protocol
+- **Programming Language** : Python, Java, Golang, Rust, JavaScript
+- **Framework** : SpringBoot, Flask, Vue3
+- **Cloud Computing**: OpenStack, Docker
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
