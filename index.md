@@ -1,4 +1,4 @@
-## Hang Yang
+## Hang Yang [CN](index_cn.md)
 
 Software Algorithm Engineer / Blockchain Developper / Open-source Contributor / System Architect.
 
@@ -62,30 +62,35 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
 ### Academic Achievements
 
 - **Paper**
+
 ```
   1. Research on Auto-configuration of Virtual Static Routing of the Topological Network Based on OpenStack Platform 
   2. Research on Topology Network Traffic Monitoring Methodof OpenStack Platform  
 ```
 
 - **Conference**
+
 ```
   1. Multi-factor Fault Detection Method of Series DC Arc Based on Decision Tree
   2. Detection Method of Turn to Turn Insulation Short Circuit Fault of Dry-Type Air-Core Reactor Using Vibration Characteristics Based on Machine Learning
 ```
 
 - **Software CopyRight**
+
 ```
   1. Network A&D training platform virtual resource management software
   2. OpenStack Platform API Modular Software
 ```
 
 - **Patent**
+
 ```
   1. A Linux Host Intrusion Detection Method
   2. A Method for Detecting Inter-turn Short-circuit Faults of Reactors based on Vibration Distribution of the Outer Casing
 ```
 
 - **Translate**
+
 ```
   1. Hands-On Natural Language Processing with Python
   2. Cloud Migration Method - From on-premise to the cloud
