@@ -8,7 +8,7 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
 
 ### Education
 
-- 2015-2020 | **Ingénieur Diploma** | Electrical and Computer Engineering | Université Paris-Saclay (France)
+- 2015-2020 | **Ingénieur** | Electrical/Computer Engineering | Université Paris-Saclay (France)
 
 - 2017-2020 | **Master Degree** | Electrical Engineering | Xi'an Jiaotong University (China)
 
@@ -35,7 +35,7 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
 - 2019 | **NLP Algorithm Engineer** | DataVisor | 
 
 ```
-  1. Sensitive Words Recognition Algorithm based on Deep Learning ( Auti-Fraud , NLP , Outlier Detection )
+  1. Sensitive Words Recognition Algorithm ( Auti-Fraud , NLP , Outlier Detection )
 ```
   
 ### Markdown
