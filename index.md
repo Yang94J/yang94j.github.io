@@ -1,4 +1,4 @@
-## Self-Portrait
+## Yang Hang
 
 Software Algorithm Engineer / Blockchain Developper / Open-source Contributor / System Architect.
 
@@ -52,36 +52,53 @@ Research field involves **Blockchain Development**、**Web Security**、**Cloud 
 
 ### Honors and Awards
 - Jiangsu Software Talent Scholarship (2020)
-- 
 
-### Markdown
+- The Second Prize of Chinese National Mathematical Modeling Contest (2018)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- The First prize of the Northwest Division in ZTE Algorithm Competition (2019)
 
-```markdown
-Syntax highlighted code block
+- First Prize of National English Reading Contest (2019)
 
-# Header 1
-## Header 2
-### Header 3
+### Academic Achievements
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **Paper**
+```
+  1. Research on Auto-configuration of Virtual Static Routing of the Topological Network Based on OpenStack Platform 
+  2. Research on Topology Network Traffic Monitoring Methodof OpenStack Platform  
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- **Conference**
+```
+  1. Multi-factor Fault Detection Method of Series DC Arc Based on Decision Tree
+  2. Detection Method of Turn to Turn Insulation Short Circuit Fault of Dry-Type Air-Core Reactor Using Vibration Characteristics Based on Machine Learning
+```
 
-### Jekyll Themes
+- **Software CopyRight**
+```
+  1. Network A&D training platform virtual resource management software
+  2. OpenStack Platform API Modular Software
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yang94J/yang94j.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Patent**
+```
+  1. A Linux Host Intrusion Detection Method
+  2. A Method for Detecting Inter-turn Short-circuit Faults of Reactors based on Vibration Distribution of the Outer Casing
+```
 
-### Support or Contact
+- **Translate**
+```
+  1. Hands-On Natural Language Processing with Python
+  2. Cloud Migration Method - From on-premise to the cloud
+  3. Resume Writing for IT Professionals - Resume Magic or How to Find a Job with Resumes and Cover Letters
+  4. Semantic Modeling for Data
+  5. Formal Language and Automata Theory
+  6. IT Room Migration
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Contact
+Email : yanghangzq@gmail.com
+ 
+[CSDN](https://blog.csdn.net/weixin_43982484?type=blog) to check out more on me.
+
+
